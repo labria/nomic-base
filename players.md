@@ -3,7 +3,7 @@
 Players                   | Points | Vetoes | Title           |
 --------------------------| ------:| ------:| ---------------:|
 Dimitri                   | 0      | 1      | Esquire         |
-player2                   | 0      | 1      | Esquire         |
+Oleg                      | 0      | 1      | Esquire         |
 player3                   | 0      | 1      | Esquire         |
 
 ___
