@@ -2,7 +2,7 @@
 
 Players                   | Points | Vetoes | Title           |
 --------------------------| ------:| ------:| ---------------:|
-player1                   | 0      | 1      | Esquire         |
+Dimitri                   | 0      | 1      | Esquire         |
 player2                   | 0      | 1      | Esquire         |
 player3                   | 0      | 1      | Esquire         |
 
@@ -19,7 +19,7 @@ ___
 
 
 ### moderators
-- player2
+- Dimitri
 - player3
 
 
