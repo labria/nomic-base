@@ -46,3 +46,9 @@
 >
 > c) The total sum of points may not increase or decrease as a result of this amendment.
 
+
+
+#### 107: Democratic Change in New Rules
+> a) Whenever a new rule is to be elected, all players EXCEPT the one adding the rule must collectively decide on a change in the specific rule.
+>
+> The change(s) in the rule must be relevant to the rule itself, and may not be a completely seperate rule.
