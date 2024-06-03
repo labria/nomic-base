@@ -30,7 +30,7 @@
 
 
 
-#### 105: Player Status
+#### 105: ~~Player Status~~
 > a) A player has a status that is `active` or `inactive`. 
 >
 > b) A player may submit an amendment to change their own status. This amendment is considered approved immediately upon submitting.
