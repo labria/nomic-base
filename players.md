@@ -19,8 +19,7 @@ ___
 
 
 ### moderators
-- Dimitri
-- player3
+- Oleg
 
 
 ### arbiter
