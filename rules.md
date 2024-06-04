@@ -68,6 +68,15 @@
 > b) This does not earn you points if you approve someone else's rule, only the player gets a point.
 
 
+
+#### 109: French Couter-Revolution 
+> a) Everyone must be referred to as 'Gentlemen' or 'Brother in bussiness'
+>
+> b) A monarch can be elected, and they are in charge of keeping things at peace and prevent rule breaking
+>
+> e) Taxes are 1 egg to the monarchy each 3 proposals elected, taking out a point and giving it to the player entitled as monarch
+
+
 #### 110: Coming Back to Life
 > a) A rule which was rejected in the past may be revoted on every 5 proposals.
 >
