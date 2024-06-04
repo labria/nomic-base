@@ -58,3 +58,10 @@
 > a) A player earns +1 point whenever he is successful to elect his rule.
 >
 > b) This does not earn you points if you approve someone else's rule, only the player gets a point.
+
+#### 112: Veto Limit 
+> a) A player cannot vote against a rule 3 times in a row
+>
+> b) If a player has vetoed 3 rules in a row and a new rule is proposed by anyone apart from the player in question, he cannot veto it
+>
+> c) Since the player cannot veto the rule, he has no choice but to approve it
