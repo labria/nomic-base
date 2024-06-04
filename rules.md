@@ -63,4 +63,4 @@
 #### 110: Sanctions on Oleg
 > a) Whenever Oleg proposes a new rule or a change to a rule, at least 3 people must vote in favor of it for it to be approved
 > 
-> b) This applies only to him
+> b) This applies to everyone lol idk what i said before
