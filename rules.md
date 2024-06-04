@@ -13,9 +13,8 @@
 > b) A player may have only 1 amendment open at a time.
 >
 > c) The amendment may not be edited once it is submitted for voting and discussion. 
-This rule cannot be changed nor deleted
-[<sup>1. How to propose</sup>](./readme.md#propose-a-rule-amendment)
-
+>
+> d) This rule cannot be changed nor deleted
 
 
 #### 103: Liberum Veto
