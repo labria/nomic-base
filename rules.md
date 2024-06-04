@@ -1,5 +1,13 @@
 ## Rules
 
+#### 100: Making a Rule or a Change
+>a) A rule or change may not target one specific person 
+>
+>b) You must add a description to your rule or change
+>
+
+
+
 #### 101: Victory Condition
 > a) If a player has 100 or more points the game ends.
 >
