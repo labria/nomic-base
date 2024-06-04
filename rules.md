@@ -86,3 +86,5 @@
 #### 113: In a Moment
 > a) Upon adoption of a new rule or a rule change, it takes full effect at the moment of the completion of the vote that adopted it
 
+#### 114: Bagguette
+>a) You can ignore  rule 116 117 118 and 119
