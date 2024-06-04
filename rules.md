@@ -59,3 +59,8 @@
 > a) A player earns +1 point whenever he is successful to elect his rule.
 >
 > b) This does not earn you points if you approve someone else's rule, only the player gets a point.
+
+
+#### 110: Griefing Banned
+
+> a) Editing to exisitng comments, adding labels, or sabotaging a thread or the rule itself is prohibited without the user nehind making the rule's permission to do so
