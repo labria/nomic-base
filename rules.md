@@ -115,3 +115,11 @@
 > b) This means that "a" cannot be followed by anything other than "b"
 
 > c) It also means that you may not skip any letters or begin from any other letter than "a"
+
+
+#### 120: Using vetoes
+> a) Every player starts with 1 veto
+>
+> b) He can use his veto to block a law that was just passed by a vote
+>
+> c) There is no way to restore a veto point
