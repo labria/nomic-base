@@ -5,7 +5,7 @@ Players                   | Eggs   | Vetoes | Title           |
 Dimitri                   | 0      | 1      | Esquire         |
 Oleg                      | 1      | 1      | Esquire         |
 Yennah                    | 1      | 1      | Esquire         |
-Theodor.                  | 1      | 1      | Esquire         |
+Theodor.                  | 1      | 1      | Monarch         |
 
 ___
 
