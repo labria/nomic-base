@@ -86,3 +86,7 @@
 #### 113: In a Moment
 > a) Upon adoption of a new rule or a rule change, it takes full effect at the moment of the completion of the vote that adopted it
 
+
+#### 109: Third time's the charm
+> If two of the previous proposals by a player were voted down, the third one only needs one vote to pass (this overrides rule 103)
+
