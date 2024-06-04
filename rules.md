@@ -60,7 +60,12 @@
 > b) This does not earn you points if you approve someone else's rule, only the player gets a point.
 
 
-#### 110: Coming Back to Life
+#### 109: Social Commitment
+> a) This rule gives a point for partcipicating in other people's rule proposal threads, voting, and commenting for three times in different thread a point.
+>
+> b) 'Parcipication' may be miscounted if it was a gibberish or a blank statement (slangs and other things do count though).
+
+> #### 110: Coming Back to Life
 > a) A rule which was rejected in the past may be revoted on every 5 proposals.
 >
 > b) If a rule has been rejected 3 times in total, it's forgotten, and is prohibited to be voted on again.
