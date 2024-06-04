@@ -117,6 +117,12 @@
 > c) It also means that you may not skip any letters or begin from any other letter than "a"
 
 
+#### 118: The Ruiner
+> a) If a rule or a change was outvoted 2 to 1 and was rejected, the writer of the rule gains half (0.5) an egg
+>
+> b) For example, if a player X proposed a rule, and two  out of the three voting people rejected the rule, player X gains +0.5 of an egg
+
+
 #### 120: Using vetoes
 > a) Every player starts with 1 veto
 >
