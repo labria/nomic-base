@@ -124,6 +124,6 @@
 
 
 #### 121: Winner Winner Chicken Dinner
-> a) If a player's proposal gets all 3/3 votes of approval, they recieve 3 eggs instead of 1
+> a) If a gentleman's proposal gets all 3/3 votes of approval, they recieve 3 eggs instead of 1
 >
 > b) This overrides the Rule 108: Earning from Success, which states recieval of 1 egg.
