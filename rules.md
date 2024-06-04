@@ -55,4 +55,6 @@
 #### 109: Points
 > a) Each succesfully elected proposal gives its writer 5 points
 >
-> b) When a player reaches 100 points, the game ends
+> b) Each UNsuccesfull proposal takes away 4 points from its writer
+>
+> c) When a player reaches 100 points, the game ends
