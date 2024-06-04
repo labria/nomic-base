@@ -52,3 +52,10 @@
 >
 > Players always considered active
 
+
+
+#### 108: Earning from Success
+
+> a) A player earns +1 point whenever he is successful to elect his rule.
+>
+> b) This does not earn you points if you approve someone else's rule, only the player gets a point.
