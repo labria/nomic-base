@@ -69,18 +69,12 @@
 
 
 
-#### 109: French Revolution 
-> a) Every person is divided into three different estates; 1st Estate (Clergy), 2nd Estate (Nobles), and the 3rd Estate (Ordinary people)
+#### 109: French Couter-Revolution 
+> a) Everyone must be referred to as 'Gentlemen' or 'Brother in bussiness'
 >
-> b) Everyone must be referred to as 'Gentlemen' or 'Brother in bussiness'
+> b) A monarch can be elected, and they are in charge of keeping things at peace and prevent rule breaking
 >
-> c) A monarch can be elected, and they are in charge of keeping things at peace and prevent rule breaking
->
-> d) Everyone initially begins as ordinary people (3rd Estate), and may be elected through the Player.md proposals to monarchy or higher estates
->
-> e) Nobles and Clergy do not have to pay taxes (points) to the monarchy
->
-> f) Taxes are 1 point to the monarchy each 3 proposals elected, taking out a point and giving it to the player entitled as monarch
+> e) Taxes are 1 egg to the monarchy each 3 proposals elected, taking out a point and giving it to the player entitled as monarch
 
 
 #### 110: Coming Back to Life
