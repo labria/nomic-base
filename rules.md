@@ -70,13 +70,13 @@
 
 
 #### 109: French Couter-Revolution 
-> a) Everyone must be referred to as 'Gentlemen' or 'Brother in bussiness'
+> 1) Everyone must be referred to as 'Gentlemen' or 'Brother in bussiness'
 >
-> b) A monarch can be elected, and they are in charge of keeping things at peace and prevent rule breaking
+> 2) A monarch can be elected, and they are in charge of keeping things at peace and prevent rule breaking
 >
-> c) Taxes are 1 egg to the monarchy each 3 proposals elected, taking out a point and giving it to the player entitled as monarch
+> 3) Taxes are 1 egg to the monarchy each 3 proposals elected, taking out a point and giving it to the player entitled as monarch
 >
-> d) You must put in the word "baguette" in anything you do (titles descripcion exc.)
+> 4) You must put in the word "baguette" in anything you do (titles descripcion exc.)
 
 
 #### 110: Coming Back to Life
