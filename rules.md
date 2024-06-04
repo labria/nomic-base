@@ -30,7 +30,7 @@
 
 
 
-#### 105: Player Status
+#### 105: ~~Player Status~~
 > a) A player has a status that is `active` or `inactive`. 
 >
 > b) A player may submit an amendment to change their own status. This amendment is considered approved immediately upon submitting.
@@ -45,4 +45,10 @@
 > b) This amendment only requires the votes from the players involved in the transfer to be considered approved.
 >
 > c) The total sum of points may not increase or decrease as a result of this amendment.
+
+
+#### 107: Abolish statuses
+> Abolishes rule 105
+>
+> Players always considered active
 
