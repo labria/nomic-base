@@ -59,3 +59,6 @@
 > a) A player earns +1 point whenever he is successful to elect his rule.
 >
 > b) This does not earn you points if you approve someone else's rule, only the player gets a point.
+
+#### 111: Winning through grit
+> Whenever a player has a total of 100 proposals that have been voted on (no matter if positively or not), he wins the game automatically
