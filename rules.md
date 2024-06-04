@@ -121,3 +121,9 @@
 > a) If a rule or a change was outvoted 2 to 1 and was rejected, the writer of the rule gains half (0.5) an egg
 >
 > b) For example, if a player X proposed a rule, and two  out of the three voting people rejected the rule, player X gains +0.5 of an egg
+
+
+#### 121: Winner Winner Chicken Dinner
+> a) If a player's proposal gets all 3/3 votes of approval, they recieve 3 eggs instead of 1
+>
+> b) This overrides the Rule 108: Earning from Success, which states recieval of 1 egg.
