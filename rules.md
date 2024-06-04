@@ -107,3 +107,11 @@
 
 #### 115: Over and Out
 > a) A proposed rule cannot exceed the letter "k" in its subections within code 
+
+
+#### 116: Basics In Consistency
+> a) When proposing a rule, the letter subsections within the code must always be consistent
+
+> b) This means that "a" cannot be followed by anything other than "b"
+
+> c) It also means that you may not skip any letters or begin from any other letter than "a"
