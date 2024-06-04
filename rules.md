@@ -1,11 +1,12 @@
 ## Rules
 
+#### 99: Voting or Commenting
+>a) When you make a vote or comment you have to have a description
+ 
 #### 100: Making a Rule or a Change
 >a) A rule or change may not target one specific person 
 >
 >b) You must add a description to your rule or change
->
-
 
 
 #### 101: Victory Condition
@@ -50,8 +51,6 @@
 > a) A player may initate a transfer of points between them and other player(s) by creating an amendment to the [players.md](player.md).
 > 
 > b) This amendment only requires the votes from the players involved in the transfer to be considered approved.
->
-> c) The total sum of points may not increase or decrease as a result of this amendment.
 
 
 #### 107: Abolish statuses
