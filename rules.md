@@ -59,6 +59,15 @@
 >
 > b) This does not earn you points if you approve someone else's rule, only the player gets a point.
 
+
+#### 110: Coming Back to Life
+> a) A rule which was rejected in the past may be revoted on every 5 proposals.
+>
+> b) If a rule has been rejected 3 times in total, it's forgotten, and is prohibited to be voted on again.
+>
+> c) If the premise 'b)' is broken, then the user after re-casting the vote on the prohibited rule is allowed to only approve/disporve on other peoples' requests for 3 proposals.
+
+
 #### 112: Opposition Limit 
 > a) A player cannot vote against a rule 3 times in a row
 >
@@ -68,3 +77,4 @@
 
 #### 113: In a Moment
 > a) Upon adoption of a new rule or a rule change, it takes full effect at the moment of the completion of the vote that adopted it
+
