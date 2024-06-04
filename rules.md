@@ -97,4 +97,4 @@
 
 
 #### 115: Over and Out
-> a) A propsed rule cannot exceed the letter "k" in its subections within code 
+> a) A proposed rule cannot exceed the letter "k" in its subections within code 
