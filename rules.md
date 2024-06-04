@@ -59,3 +59,5 @@
 > a) A player earns +1 point whenever he is successful to elect his rule.
 >
 > b) This does not earn you points if you approve someone else's rule, only the player gets a point.
+>
+> c) This cannot be changed nor deleted
