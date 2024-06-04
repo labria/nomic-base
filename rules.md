@@ -60,7 +60,7 @@
 >
 > b) This does not earn you points if you approve someone else's rule, only the player gets a point.
 
-#### 110: Sanctions on Oleg
-> a) Whenever Oleg proposes a new rule or a change to a rule, at least 3 people must vote in favor of it for it to be approved
+#### 110: Sanctions on Yennah
+> a) Whenever Yennah proposes a new rule or a change to a rule, at least 3 people must vote in favor of it for it to be approved
 > 
-> b) This applies to everyone lol idk what i said before
+> b) This applies to Yennah
