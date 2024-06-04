@@ -115,3 +115,10 @@
 > b) This means that "a" cannot be followed by anything other than "b"
 
 > c) It also means that you may not skip any letters or begin from any other letter than "a"
+
+
+
+#### 117: Cannon Event
+> a) Whenever you make a proposal which overrides a previous rule, you **must** include any rule(s) which you want to override using that new rule.
+>
+> b) The mention of the rule(s) must be included in the rule itself, not the description of the post.
