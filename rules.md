@@ -47,7 +47,7 @@
 > c) The total sum of points may not increase or decrease as a result of this amendment.
 
 
-#### 106: Abolish statuses
+#### 107: Abolish statuses
 > Abolishes rule 105
 >
 > Players always considered active
