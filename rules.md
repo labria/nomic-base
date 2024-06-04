@@ -111,7 +111,15 @@
 
 #### 116: Basics In Consistency
 > a) When proposing a rule, the letter subsections within the code must always be consistent
-
+> 
 > b) This means that "a" cannot be followed by anything other than "b"
-
+> 
 > c) It also means that you may not skip any letters or begin from any other letter than "a"
+
+
+#### 120: Using vetoes
+> a) Every player starts with 1 veto
+>
+> b) Two players must use their 2 points together to block a law that was just passed
+>
+> c) There is no way to restore a veto point
