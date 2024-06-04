@@ -111,9 +111,9 @@
 
 #### 116: Basics In Consistency
 > a) When proposing a rule, the letter subsections within the code must always be consistent
-
+> 
 > b) This means that "a" cannot be followed by anything other than "b"
-
+> 
 > c) It also means that you may not skip any letters or begin from any other letter than "a"
 
 
@@ -123,7 +123,16 @@
 > b) For example, if a player X proposed a rule, and two  out of the three voting people rejected the rule, player X gains +0.5 of an egg
 
 
+#### 120: Using vetoes
+> a) Every player starts with 1 veto
+>
+> b) Two players must use their 2 points together to block a law that was just passed
+>
+> c) There is no way to restore a veto point
+
+
 #### 121: Winner Winner Chicken Dinner
 > a) If a gentleman's proposal gets all 3/3 votes of approval, they recieve 3 eggs instead of 1
 >
 > b) This overrides the Rule 108: Earning from Success, which states recieval of 1 egg.
+
