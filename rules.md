@@ -64,3 +64,5 @@
 #### 110: Griefing Banned
 
 > a) Editing to exisitng comments, adding labels, or sabotaging a thread or the rule itself is prohibited without the user nehind making the rule's permission to do so
+>
+> Punishes the people harshly with a virtual gulitine
