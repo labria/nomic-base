@@ -129,3 +129,10 @@
 > b) Two players must use their 2 points together to block a law that was just passed
 >
 > c) There is no way to restore a veto point
+
+
+#### 121: Winner Winner Chicken Dinner
+> a) If a gentleman's proposal gets all 3/3 votes of approval, they recieve 3 eggs instead of 1
+>
+> b) This overrides the Rule 108: Earning from Success, which states recieval of 1 egg.
+
