@@ -1,5 +1,13 @@
 ## Rules
 
+#### 100: Making a Rule or a Change
+>a) A rule or change may not target one specific person 
+>
+>b) You must add a description to your rule or change
+>
+
+
+
 #### 101: Victory Condition
 > a) If a player has 100 or more points the game ends.
 >
@@ -76,5 +84,14 @@
 > c) Since the player cannot oppose the rule, he has no choice but to approve it
 
 
+#### 113: In a Moment
+> a) Upon adoption of a new rule or a rule change, it takes full effect at the moment of the completion of the vote that adopted it
+
+
 #### 114: Law of the Egg
 > a) Points are to be hereafter refered to as Eggs 
+
+
+#### 109: Third time's the charm
+> If two of the previous proposals by a player were voted down, the third one only needs one vote to pass (this overrides rule 103)
+
