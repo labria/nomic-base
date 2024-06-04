@@ -65,3 +65,6 @@
 > b) If a player has opposed 3 rules in a row and a new rule is proposed by anyone apart from the player in question, he cannot oppose it
 >
 > c) Since the player cannot oppose the rule, he has no choice but to approve it
+
+#### 113: In a Moment
+> a) Upon adoption of a new rule or a rule change, it takes full effect at the moment of the completion of the vote that adopted it
