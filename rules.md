@@ -83,8 +83,13 @@
 >
 > c) Since the player cannot oppose the rule, he has no choice but to approve it
 
+
 #### 113: In a Moment
 > a) Upon adoption of a new rule or a rule change, it takes full effect at the moment of the completion of the vote that adopted it
+
+
+#### 114: Law of the Egg
+> a) Points are to be hereafter refered to as Eggs 
 
 
 #### 109: Third time's the charm
