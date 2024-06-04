@@ -1,6 +1,6 @@
 ### active players
 
-Players                   | Points | Vetoes | Title           |
+Players                   | Eggs   | Vetoes | Title           |
 --------------------------| ------:| ------:| ---------------:|
 Dimitri                   | 0      | 1      | Esquire         |
 Oleg                      | 1      | 1      | Esquire         |
