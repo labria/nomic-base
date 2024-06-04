@@ -74,8 +74,9 @@
 >
 > b) A monarch can be elected, and they are in charge of keeping things at peace and prevent rule breaking
 >
-> e) Taxes are 1 egg to the monarchy each 3 proposals elected, taking out a point and giving it to the player entitled as monarch
-
+> c) Taxes are 1 egg to the monarchy each 3 proposals elected, taking out a point and giving it to the player entitled as monarch
+>
+> d) You have to enclude the word "baguette" in everything you do (comments votes rules changes title description)
 
 #### 110: Coming Back to Life
 > a) A rule which was rejected in the past may be revoted on every 5 proposals.
