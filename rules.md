@@ -68,6 +68,10 @@
 > b) This does not earn you points if you approve someone else's rule, only the player gets a point.
 
 
+#### 109: Third time's the charm
+> If two of the previous proposals by a player were voted down, the third one only needs one vote to pass (this overrides rule 103)
+
+
 #### 110: Coming Back to Life
 > a) A rule which was rejected in the past may be revoted on every 5 proposals.
 >
