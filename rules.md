@@ -59,9 +59,9 @@
 >
 > b) This does not earn you points if you approve someone else's rule, only the player gets a point.
 
-#### 112: Veto Limit 
+#### 112: Opposition Limit 
 > a) A player cannot vote against a rule 3 times in a row
 >
-> b) If a player has vetoed 3 rules in a row and a new rule is proposed by anyone apart from the player in question, he cannot veto it
+> b) If a player has opposed 3 rules in a row and a new rule is proposed by anyone apart from the player in question, he cannot oppose it
 >
-> c) Since the player cannot veto the rule, he has no choice but to approve it
+> c) Since the player cannot oppose the rule, he has no choice but to approve it
