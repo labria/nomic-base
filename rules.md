@@ -1,5 +1,10 @@
 ## Rules
 
+#### 99: Snakey 
+>a) Every s hassssss to be long
+>Example=ssssssnake
+
+
 #### 100: Making a Rule or a Change
 >a) A rule or change may not target one specific person 
 >
