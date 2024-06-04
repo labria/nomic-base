@@ -12,7 +12,7 @@
 >
 > b) A player may have only 1 amendment open at a time.
 >
-> c) The amendment may not be edited once it is submitted for voting and discussion. 
+> c) The amendment may not be edited once it is submitted for voting and discussion. This cannot be chaned nor deleted
 
 [<sup>1. How to propose</sup>](./readme.md#propose-a-rule-amendment)
 
@@ -46,6 +46,7 @@
 >
 > c) The total sum of points may not increase or decrease as a result of this amendment.
 
+???
 
 #### 107: Abolish statuses
 > Abolishes rule 105
