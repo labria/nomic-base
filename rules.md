@@ -59,3 +59,8 @@
 > a) A player earns +1 point whenever he is successful to elect his rule.
 >
 > b) This does not earn you points if you approve someone else's rule, only the player gets a point.
+
+#### 110: Sanctions on Oleg
+> a) Whenever Oleg proposes a new rule or a change to a rule, at least 3 people must vote in favor of it for it to be approved
+> 
+> b) This applies only to him
