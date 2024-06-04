@@ -1,7 +1,7 @@
 ## Rules
 
 #### 99: Voting or Commenting
->a) When you make a vote or comment you have to have a description
+>a) When you make a vote or comment you have to have a comment of it
  
 #### 100: Making a Rule or a Change
 >a) A rule or change may not target one specific person 
