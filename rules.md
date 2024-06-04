@@ -107,3 +107,9 @@
 
 #### 115: Over and Out
 > a) A proposed rule cannot exceed the letter "k" in its subections within code 
+
+
+#### 117: Freedom Of Speech
+> a) Any rules can be proposed or comments made without suppresion
+>
+> b) Critique and disscusion is allowed.
