@@ -5,6 +5,7 @@ Players                   | Points | Vetoes | Title           |
 Dimitri                   | 0      | 1      | Esquire         |
 Oleg                      | 0      | 1      | Esquire         |
 Yennah                    | 0      | 1      | Esquire         |
+Theodor.                  | 0      | 1      | Esquire         |
 
 ___
 
