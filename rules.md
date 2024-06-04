@@ -46,3 +46,6 @@
 >
 > c) The total sum of points may not increase or decrease as a result of this amendment.
 
+
+#### 109: Removing rules
+Rule 109 and Rule 102 may not be changed nor deleted
