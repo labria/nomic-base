@@ -76,7 +76,7 @@
 >
 > c) Taxes are 1 egg to the monarchy each 3 proposals elected, taking out a point and giving it to the player entitled as monarch
 >
-> d) You must put in the word "baguette" in anything you do (titles descripcion exc.)
+> d) You must put in the word "baguette" in titles and descripcions
 
 
 #### 110: Coming Back to Life
