@@ -95,3 +95,6 @@
 #### 109: Third time's the charm
 > If two of the previous proposals by a player were voted down, the third one only needs one vote to pass (this overrides rule 103)
 
+
+#### 115: Over and Out
+> a) A propsed rule cannot exceed the letter "k" in its subections within code 
